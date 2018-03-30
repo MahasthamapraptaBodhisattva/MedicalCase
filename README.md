@@ -8,3 +8,5 @@ two folder generated:
 
 /medicalCase/
 /118prescription/
+
+focus on it
