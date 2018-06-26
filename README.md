@@ -1,4 +1,4 @@
-# MedicalCase
+﻿# MedicalCase
 CollectMedicalCases
 
 collect medical case from han dynasty to qing dynasty
@@ -19,3 +19,9 @@ daily plan:
 4.  Prescription reciting.
 5. The Yellow Emperor's Canon of Internal Medicine 1 hour.
 6. Case record analysis. 0.5 hour.
+
+
+
+
+20180626 review: one month no update ....
+do it.
